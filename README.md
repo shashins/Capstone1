@@ -1,4 +1,4 @@
-# Capstone1
+# Capstone Projects
 
 Steps
 
