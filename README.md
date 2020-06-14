@@ -1,6 +1,2 @@
 # Capstone Projects
 
-Steps
-
-Tools
-
