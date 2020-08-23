@@ -24,7 +24,7 @@ support an even higher ticket price.
 
 ## Problem Statement
 
-How can Big Mountain company maintain its annual profit margin at 9.2% by increasing
+How can Big Mountain company maintain its annual profit margin at ``9.2%`` by increasing
 ticket cost for both weekdays and weekends or increasing number of days of opening
 or reducing the number of runs or reduce the total skiable area to reduce operation
 cost?
