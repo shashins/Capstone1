@@ -4,14 +4,14 @@
 
 Big Mountain Resort, a ski resort located in Montana. Big Mountain Resort
 offers spectacular views of Glacier National Park and Flathead National Forest, with
-access to 105 trails. Every year about 350,000 people ski or snowboard at Big Mountain.
+access to 105 trails. Every year about ``350,000`` people ski or snowboard at Big Mountain.
 This mountain can accommodate skiers and riders of all levels and abilities.
-These are serviced by 11 lifts, 2 T-bars, and 1 magic carpet for novice skiers. The
-longest run is named Hellfire and is 3.3 miles in length. The base elevation is 4,464 ft,
-and the summit is 6,817 ft with a vertical drop of 2,353 ft.
+These are serviced by ``11`` lifts, ``2`` T-bars, and ``1`` magic carpet for novice skiers. The
+longest run is named Hellfire and is ``3.3`` miles in length. The base elevation is ``4,464`` ft,
+and the summit is ``6,817`` ft with a vertical drop of ``2,353`` ft.
 Big Mountain Resort has recently installed an additional chair lift to help increase the
 distribution of visitors across the mountain. This additional chair increases their
-operating costs by $1,540,000 this season.
+operating costs by ``\$1,540,000`` this season.
 The resort's pricing strategy has been to charge a premium above the average price of
 resorts in its market segment. They know there are limitations to this approach. There's
 a suspicion that Big Mountain is not capitalizing on its facilities as much as it could.
@@ -40,10 +40,14 @@ recommendations on recouping the increased operating costs from the new chair
 this season. Additionally, what can they expect this years' annual revenue to be if
 they make the changes you recommend? has on the business’ profitability.
 
-## Criteria for success
+## Criteria for Success
 
 To keep annual profit margin at 9.2 %.
 
 ## Stakeholders
 
 Director of Operations and Database Manager from Big Mountain Resort
+
+## Key Data Sources
+
+CSV file containing information of other resorts in the market. This csv file is extracted from a database manager.
