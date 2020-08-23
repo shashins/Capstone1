@@ -11,7 +11,7 @@ longest run is named Hellfire and is ``3.3`` miles in length. The base elevation
 and the summit is ``6,817`` ft with a vertical drop of ``2,353`` ft.
 Big Mountain Resort has recently installed an additional chair lift to help increase the
 distribution of visitors across the mountain. This additional chair increases their
-operating costs by ``\$1,540,000`` this season.
+operating costs by $``1,540,000`` this season.
 The resort's pricing strategy has been to charge a premium above the average price of
 resorts in its market segment. They know there are limitations to this approach. There's
 a suspicion that Big Mountain is not capitalizing on its facilities as much as it could.
