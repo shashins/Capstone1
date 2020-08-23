@@ -28,3 +28,22 @@ How can Big Mountain company maintain its annual profit margin at ``9.2%`` by in
 ticket cost for both weekdays and weekends or increasing number of days of opening
 or reducing the number of runs or reduce the total skiable area to reduce operation
 cost?
+
+## Context
+
+Big Mountain Resort has recently installed an additional chair lift to help increase
+the distribution of visitors across the mountain. This additional chair increases
+their operating costs by $1,540,000 this season. Every year about 350,000 people
+ski or snowboard at Big Mountain. This business profit margin is 9.2% and the
+investors would like to keep it there. The business is eager to get your
+recommendations on recouping the increased operating costs from the new chair
+this season. Additionally, what can they expect this years' annual revenue to be if
+they make the changes you recommend? has on the business’ profitability.
+
+## Criteria for success
+
+To keep annual profit margin at 9.2 %.
+
+## Stakeholders
+
+Director of Operations and Database Manager from Big Mountain Resort
